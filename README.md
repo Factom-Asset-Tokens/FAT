@@ -212,15 +212,15 @@ Once you've set your parameters you can add an initial set of recipients to rece
 
 # Resources
 
-## Guides
+## General Info
 
-TODO
+- #### [FAQ](FAQ.md)
 
 
 
 ## Software
 
-- #### [FATWallet](/) - Official FAT wallet currently supporting FAT-0 & FAT-1
+- #### [FATWallet](https://github.com/DBGrow/FATWallet) - Official FAT wallet currently supporting FAT-0 & FAT-1
 
 
 
@@ -252,12 +252,6 @@ TODO
   - Token API definitions
 
   ####  
-
-## API Documentation
-
-TODO
-
-
 
 ## Libraries
 
