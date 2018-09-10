@@ -1,4 +1,4 @@
-![image alt ](assets/octahedron.png) 	-
+![image alt ](/home/devon/git-projects/fat-doc/assets/octahedron.png) 	-
 
 # Factom Asset Tokens
 
@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/RpYD47t)
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#Copyright & Legal)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#copyright-&-legal)
 
 
 
@@ -40,7 +40,7 @@ Anyone can send, receive, and create their own tokens for a low fixed cost. FAT 
 
 ## Low, Fixed Cost
 
-Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance, **FAT has 99% lower transaction and issuance costs than Ethereum Tokens** with [similar features](FAQ#Is FAT comparable with Ethereum?) and speed.
+Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance, **FAT has 99% lower transaction and issuance costs than Ethereum Tokens** with [similar features](FAQ#is-fat-comparable-with-ethereum?) and speed.
 
 
 
@@ -48,7 +48,7 @@ Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance, **FAT
 
 
 
-![](https://png.icons8.com/cotton/128/000000/domain.png)
+![](https://png.icons8.com/cotton/128/000000/physics.png)
 
 ## Universal
 
@@ -60,7 +60,7 @@ FAT standards are data only, and are written in universal formats that most prog
 
 
 
-![](https://png.icons8.com/cotton/128/000000/puzzle.png)
+![](https://png.icons8.com/cotton/128/000000/package.png)
 
 ## Extensible
 
@@ -70,7 +70,7 @@ FAT standards and tokens are composable and extensible by design, and are made t
 
 
 
-![](https://png.icons8.com/cotton/128/000000/filled-flag.png)
+![](https://png.icons8.com/cotton/128/000000/home.png)
 
 ## Safe
 
@@ -80,7 +80,7 @@ Sending and issuing FAT tokens does not require buying crypto from exchanges. Th
 
 
 
-![](https://png.icons8.com/cotton/128/000000/grand-master-key.png)
+![](https://png.icons8.com/cotton/128/000000/tower.png)
 
 ## Secure
 
@@ -92,7 +92,7 @@ FAT is built on [Factom](/), a decentralized Blockchain run by 100s of community
 
 
 
-![](https://png.icons8.com/cotton/128/000000/conference-background-selected.png)
+![](https://png.icons8.com/cotton/128/000000/communication.png)
 
 ## Thriving Community
 
@@ -119,9 +119,7 @@ FAT features several types and is always adding more. You can create your own to
 A fungible asset token standard.
 
 - Most alike an ERC-20 token (TRON, Golem, Ziliqa):
-
   - Tradable in fractions of a token
-
 
 ### [**FAT-1**](fatips/1.md)
 
@@ -152,7 +150,7 @@ A fungible, mineable asset token standard.
 
 The easiest way to get started exploring, issuing, accepting, and trading FAT tokens is by using the latest official [FAT Wallet Release](/). The wallet is available as an executable for Windows, Mac, or Linux.
 
-You can also use a [Library or API](#Libraries) to programmatically issue, interact with, and send FAT tokens from your code.
+You can also use a [Library or API](#libraries) to programmatically issue, interact with, and send FAT tokens from your code.
 
 
 
@@ -244,10 +242,6 @@ TODO
 
 - #### [Factom Asset Token Discord](https://discord.gg/RpYD47t)
 
-- #### [Factom Community Discord](https://discord.gg/9msfEM) (#third-party-development), mention FAT :blue_heart:
-
-- #### [Factomize Forum - Tokenization Thread](https://docs.google.com/document/d/1YqLhAWEvhWUf4osLYKcN_1sjIYNxAJ4VtHBZlxwYAq8/edit?usp=sharing)
-
 
 
 ## Development
@@ -257,8 +251,7 @@ TODO
   - Main location for community review and development of FAT standards
   - Token API definitions
 
-  #### 
-
+  ####  
 
 ## API Documentation
 
@@ -268,7 +261,7 @@ TODO
 
 ## Libraries
 
-- #### [fat-js](https://png.icons8.com/cotton/64/000000/conference-background-selected.png) - Official NodeJS implementations of FAT-X clients & medium nodes
+- #### [fat-js](https://github.com/DBGrow/fat-js) - NodeJS implementations of FAT-X clients & medium nodes
 
 
 
