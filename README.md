@@ -1,4 +1,4 @@
-![image alt ](/home/devon/git-projects/fat-doc/assets/octahedron.png) 	-
+![image alt](assets/octahedron.png) 	-
 
 # Factom Asset Tokens
 
