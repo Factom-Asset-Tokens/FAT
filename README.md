@@ -12,10 +12,6 @@ Factom Asset Tokens (**FAT**) are a collection of open source, data-only blockch
 
 
 
-[TOC]
-
-
-
 # What Is FAT?
 
 FAT Tokens are decentralized, [tokenized assets](https://medium.com/coinmonks/asset-tokenization-what-why-and-how-73650c49afe0); Pure and simple.
