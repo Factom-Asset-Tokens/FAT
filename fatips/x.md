@@ -24,7 +24,7 @@ FATIP is a formal proposal and process for accepting and integrating new standar
 
 # Why Are They Important?
 
-FATIP provides an open forum for the community to collaborate on and accept new standards into the FACT ecosystem. FAT is completely open open source, and we rely on our community to keep us pointed in the right direction.
+FATIP provides an open forum for the community to collaborate on and accept new standards into the FACT ecosystem. FAT is completely open source, and we rely on our community to keep us pointed in the right direction.
 
 
 
