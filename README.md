@@ -40,7 +40,7 @@ Anyone can send, receive, and create their own tokens for a low fixed cost. FAT 
 
 ## Low, Fixed Cost
 
-Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance, **FAT has 99% lower transaction and issuance costs than Ethereum Tokens** with [similar features](FAQ#is-fat-comparable-with-ethereum?) and speed.
+Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance, **FAT has 99% lower transaction and issuance costs than Ethereum Tokens** with [similar features](FAQ#is-fat-comparable-with-ethereum?) and speed.  
 
 
 
@@ -52,7 +52,7 @@ Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance, **FAT
 
 ## Universal
 
-FAT standards are data only, and are written in universal formats that most programmers already know, and anyone can learn (JSON). There is no need to learn contract languages or other specialized tools.
+FAT standards are data only, and are written in universal formats that most programmers already know, and anyone can learn (JSON). There is no need to learn contract languages or other specialized tools.  
 
 
 
@@ -64,7 +64,7 @@ FAT standards are data only, and are written in universal formats that most prog
 
 ## Extensible
 
-FAT standards and tokens are composable and extensible by design, and are made to be extended to the limit of creativity. Metadata is embeddable in issuances and transactions for unlimited flexibility. 
+FAT standards and tokens are composable and extensible by design, and are made to be extended to the limit of creativity. Metadata is embeddable in issuances and transactions for unlimited flexibility.  
 
 
 
@@ -74,7 +74,7 @@ FAT standards and tokens are composable and extensible by design, and are made t
 
 ## Safe
 
-Sending and issuing FAT tokens does not require buying crypto from exchanges. The tokens used to pay for FAT transactions & issuances, [Entry Credits](https://www.factom.com/devs/tokens/entry-credits), are not securities and are [purchasable online instantly](https://shop.factom.com/).
+Sending and issuing FAT tokens does not require buying crypto from exchanges. The tokens used to pay for FAT transactions & issuances, [Entry Credits](https://www.factom.com/devs/tokens/entry-credits), are not securities and are [purchasable online instantly](https://shop.factom.com/).  
 
 
 
@@ -84,7 +84,7 @@ Sending and issuing FAT tokens does not require buying crypto from exchanges. Th
 
 ## Secure
 
-FAT is built on [Factom](/), a decentralized Blockchain run by 100s of community members and over 40 verified enterprise companies worldwide. Every 10 Minutes Factom's data is recorded into the Bitcoin Blockchain to prove it's existence and secure it forever. 
+FAT is built on [Factom](/), a decentralized Blockchain run by 100s of community members and over 40 verified enterprise companies worldwide. Every 10 Minutes Factom's data is recorded into the Bitcoin Blockchain to prove it's existence and secure it forever.  
 
 
 
