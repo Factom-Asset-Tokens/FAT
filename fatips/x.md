@@ -145,9 +145,9 @@ Once the FATIP is ready for the repository, the FATIP editor will:
 
 - Assign an FATIP number (generally the PR number or, if preferred by the author, the Issue # if there was discussion in the Issues section of this repository about this FATIP)
 - Merge the corresponding pull request
-- Send a message back to the EIP author with the next step.
+- Send a message back to the FATIP author with the next step.
 
-Many FATIP are written and maintained by developers with write access to the Ethereum codebase. The FATIP editors monitor FATIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.
+Many FATIP are written and maintained by developers with write access to the FAT codebase. The FATIP editors monitor FATIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.
 
 The editors don't pass judgment on FATIP. We merely do the administrative & editorial part.
 
@@ -175,7 +175,7 @@ Once accepted as a draft an editor will assign an official FATIP number.
 
 ## Summary
 
-"If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the EIP.
+"If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the FATIP.
 
 
 
@@ -187,13 +187,13 @@ Clearly explain why the existing protocol specification is inadequate to address
 
 ## Specification
 
-The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Ethereum platforms (go-ethereum, parity, cpp-ethereum, ethereumj, ethereumjs, and [others](https://github.com/ethereum/wiki/wiki/Clients)).
+The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current FAT platforms ([fat-js](https://github.com/DBGrow/fat-js), any future implementations).
 
 
 
 ## Implementation
 
-The implementations must be completed before any EIP is given status "Final", but it need not be completed before the EIP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.
+The implementations must be completed before any FATIP is given status "Final", but it need not be completed before the FATIP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.
 
 
 
