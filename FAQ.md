@@ -6,11 +6,11 @@
 
 ### What Is a Data-Only Protocol/Standard?
 
-A data only protocol is, well, a protocol that exists and functions only using data! In contrast, Ethereum runs smart contract code in parallel across the network to function and reach consensus. Ethereum is a computational blockchain distributes computation and data across the network. 
+A data only protocol is, well, a protocol that exists and functions only using data! In contrast, Ethereum runs smart contract code in parallel across the network to function and reach consensus. Ethereum is a computational blockchain and it distributes computation and data across the network. 
 
-Data protocols only share the data at the blockchain layer, and defer the computation to users of the to filter and validate the data according to protocols like FAT.
+Data protocols only share the data at the blockchain layer, and defer the computation to the users of the protocol to filter and validate the data according to protocols like FAT.
 
-Sharding data is a "solved"  problem in that it has been successfully implemented in many production database systems, whereas sharding computation remains a very difficult challenge that plagues the scalability of many blockchains to this day and for years to come.
+Sharding data is a "solved"  problem in that it has been successfully implemented in many production database systems, whereas sharding computation remains a very difficult challenge that plagues the scalability of many blockchains to this day and will for years to come.
 
 
 
