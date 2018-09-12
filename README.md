@@ -3,9 +3,7 @@
 # Factom Asset Tokens
 
 [![](https://img.shields.io/badge/Token%20Standards-3-brightgreen.svg?style=for-the-badge)](FATIPS.md)
-
 [![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/RpYD47t)
-
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#copyright-&-legal)
 
 
@@ -41,11 +39,8 @@ Anyone can send, receive, and create their own tokens for a low fixed cost. FAT 
 ## Low, Fixed Cost
 
 Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance, **FAT has 99% lower transaction and issuance costs than Ethereum Tokens** with [similar features](FAQ#is-fat-comparable-with-ethereum?) and speed.  
-
-
-
-
-
+<br/>
+<br/>
 
 
 ![](https://png.icons8.com/cotton/128/000000/physics.png)
@@ -53,11 +48,8 @@ Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance, **FAT
 ## Universal
 
 FAT standards are data only, and are written in universal formats that most programmers already know, and anyone can learn (JSON). There is no need to learn contract languages or other specialized tools.  
-
-
-
-
-
+<br/>
+<br/>
 
 
 ![](https://png.icons8.com/cotton/128/000000/package.png)
@@ -65,7 +57,8 @@ FAT standards are data only, and are written in universal formats that most prog
 ## Extensible
 
 FAT standards and tokens are composable and extensible by design, and are made to be extended to the limit of creativity. Metadata is embeddable in issuances and transactions for unlimited flexibility.  
-
+<br/>
+<br/>
 
 
 
@@ -75,9 +68,8 @@ FAT standards and tokens are composable and extensible by design, and are made t
 ## Safe
 
 Sending and issuing FAT tokens does not require buying crypto from exchanges. The tokens used to pay for FAT transactions & issuances, [Entry Credits](https://www.factom.com/devs/tokens/entry-credits), are not securities and are [purchasable online instantly](https://shop.factom.com/).  
-
-
-
+<br/>
+<br/>
 
 
 ![](https://png.icons8.com/cotton/128/000000/tower.png)
@@ -85,10 +77,8 @@ Sending and issuing FAT tokens does not require buying crypto from exchanges. Th
 ## Secure
 
 FAT is built on [Factom](/), a decentralized Blockchain run by 100s of community members and over 40 verified enterprise companies worldwide. Every 10 Minutes Factom's data is recorded into the Bitcoin Blockchain to prove it's existence and secure it forever.  
-
-
-
-
+<br/>
+<br/>
 
 
 
@@ -269,6 +259,6 @@ This project has no affiliation with Factom Incorporated, the original developer
 
 The term "Factom" refers solely to the MIT licensed, open source blockchain technology [Factom](https://github.com/FactomProject/factomd).
 
-
+Icons by [Icons8](https://icons8.com)
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
