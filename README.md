@@ -166,7 +166,7 @@ You can acquire Entry Credits from 3rd party purchasers ([Defacto](https://ec.de
 
 Alternatively, you can acquire Factoids from an exchange and burn them into Entry Credits and avoid the markups of 3rd party services. You'll always get a good deal, since the burn ratio between Factoids to Entry Credits is stabilized to give Entry Credits a constant value of $0.001 USD.
 
-Once your Entry Credit address is funded you can send FAT tokens by burning entry credits. It costs approximately 2 Entry Credits to send a transactions ($0.002 USD).
+Once your Entry Credit address is funded you can send FAT tokens by burning entry credits. It costs approximately 2 Entry Credits to send a transaction ($0.002 USD).
 
 Pending transactions should show up in the wallet within 30 seconds after successful entry into Factom.
 
@@ -178,7 +178,7 @@ To issue a new FAT token you'll need a [Factom Digital Identity](https://ec.de-f
 
 Registering a new identity costs around 30 Entry Credits ($0.03). You'll need to wait up to 10 minutes for the block to complete to view and use your new identity.
 
-Once you're identity is ready, simply fill out the instructions in the token issuance dialog.
+Once your identity is ready, simply fill out the instructions in the token issuance dialog.
 
 
 
