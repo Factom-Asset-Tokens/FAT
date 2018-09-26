@@ -42,18 +42,16 @@ let's list some killer pros for FAT:
 | Securities/Regulatory concerns of operating token            | Y      | N     |
 | Purchase operating tokens in Fiat, no exchange/regulation    | N      | Y     |
 | Anchors into the oldest and most secure Blockchain: Bitcoin  | N      | Y     |
-| ~~Can Anchor into Ethereum. Ethereum can't anchor into itself~~ **LOL** | ~~N~~  | ~~Y~~ |
 
 
 ### So, Why _can't_ it do everything Ethereum does?
 
-FAT is a data only protocol, it can only achieve consensus on the order and
-content of data that is published to the blockchain.
+FAT is a data only protocol, it achieves consensus on the order, timing, and
+content of data using the Factom blockchain.
 
-In Ethereum an addresses behavior (often called a contract) can be defined in
-code, and forced to act a certain way by the miners via consensus. No signing
-with private keys is needed because the behavior can be trusted by everyone in
-the network. For example, I send ether to a contract and get back an ICO token,
+In Ethereum, a tokens behavior is defined by a smart contract's
+code which is run across the network and held to its well defined rules way by the miners via consensus. No signing with private keys is needed because the behavior can be trusted by everyone in
+the network. For example, I can send ether to a contract and get back an ICO token,
 guaranteed.
 
 FAT cannot _force_ an issuer to perform an action like the smart contract in
@@ -74,13 +72,13 @@ perhaps the biggest caveat of FAT.
 At the same time this meshes with how our legal and social systems regulate
 behavior in the real world. The publicly viewable, immutable evidence of lack
 of action on behalf of a trusted well known issuer is likely admissible in
-court. It is most certainly admissible to cause public distress and outcry.
+court. It is most certainly admissible in the court of public opinion and social enforcement.
 
 
 ### So, Why should I use FAT over Ethereum or Colored Coins?
 
 1. They are crazy affordable. ($0.001/KB vs \$2.86/KB & \$3.83/KB). We're
-   talking 1000%+ less expensive than the competition.
+   talking over 1000% less expensive than the competition.
 2. They are crazy easy to learn. FAT tokens are written in simple JSON and
    optionally your choice of programming language. Libraries are available to
 facilitate easy contract module development.
@@ -94,7 +92,7 @@ just be trustworthy and run reliable high availability code.
 FAT TPS is equal to Factom's TPS. Currently Factom can do around 7 TPS stably,
 which comparable to Ethereum. Factom has been pushed over to 10 TPS before in
 testing. Factom will be capable of sharding to accommodate increasing volume in
-the near future as part of the core development grant by Factom Inc.
+the future as part of the core development grant by Factom Inc.
 
 
 ### Can I try FAT out without spending real money?
@@ -105,6 +103,6 @@ to try FAT out at no cost.
 
 ### Who Owns FAT?
 
-You do. FAT is completely open source under Creative Commons 2.0. FAT's
+You do. FAT is completely open source under Creative Commons 0. FAT's
 development and administration is spearheaded by DBGrow Inc., one of the 41
 proud Factom Authority Node Operators

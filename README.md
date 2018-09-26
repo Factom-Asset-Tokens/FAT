@@ -3,8 +3,8 @@
 # Factom Asset Tokens
 
 [![](https://img.shields.io/badge/Token%20Standards-3-brightgreen.svg?style=for-the-badge)](FATIPS.md)
-[![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/RpYD47t)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#copyright-&-legal)
+[![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/8ADPfSc)
+[![GitHub](https://img.shields.io/badge/Licence-cc0-brightgreen.svg?longCache=true&style=for-the-badge)](#copyright-&-legal)
 
 Factom Asset Tokens (**FAT**) are a collection of open source, data-only
 blockchain tokenization standards. FAT Tokens open up affordable, secure crypto
@@ -98,7 +98,6 @@ and [Gates
 Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/11/OPP1159449)
 grants for it's work securing data in law enforcement applications and the
 developing world.
-
 
 ------
 
@@ -240,6 +239,7 @@ events outside the blockchain (Stripe Payments, Webhooks, User events).
   currently supporting FAT-0 & FAT-1
 
 
+
 ## Documentation
 
 - #### [Factom Asset Token Improvement Proposals (FATIPs)](FATIPS.md)
@@ -256,7 +256,7 @@ events outside the blockchain (Stripe Payments, Webhooks, User events).
 
 ## Community & Discussion
 
-- #### [Factom Asset Token Discord](https://discord.gg/RpYD47t)
+- #### [Factom Asset Token Discord](https://discord.gg/8ADPfSc)
 
 
 
@@ -267,12 +267,12 @@ events outside the blockchain (Stripe Payments, Webhooks, User events).
   - Main location for community review and development of FAT standards
   - Token API definitions
 
-  ####
 
 ## Libraries
 
-- #### [fat-js](https://github.com/DBGrow/fat-js) - NodeJS implementations of
-  FAT-X clients & medium nodes
+- #### [fat-js](https://github.com/DBGrow/fat-js) - NodeJS implementations of FAT-X clients & light node
+
+
 
 
 # Copyright & Legal

@@ -4,9 +4,9 @@
 
 [![](https://img.shields.io/badge/FAT%20Standards-7-brightgreen.svg?style=for-the-badge)](FATIPS.md)
 
-[![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/RpYD47t)
+[![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/8ADPfSc)
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#Copyright & Legal)
+[![GitHub](https://img.shields.io/badge/Licence-cc0-brightgreen.svg?longCache=true&style=for-the-badge)](#Copyright & Legal)
 
 FATIP proposals are a open collection of tokenized asset standards built on the
 Factom blockchain, known as Factom Asset Token standards (FAT) standards. This
