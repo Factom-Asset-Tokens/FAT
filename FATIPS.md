@@ -28,10 +28,11 @@ defines the FATIP process.
 
 ## Work In Progress
 
-| FATIP                | Name                    | Category       |
-| -------------------- | ----------------------- | -------------- |
-| [13](fatips/13.md)   | Mineable Token Standard | Token Standard |
-| [102](fatips/102.md) | FAT Index Standard      | Meta           |
+| FATIP                | Name                                   | Category       |
+| -------------------- | -------------------------------------- | -------------- |
+| [13](fatips/13.md)   | Mineable Token Standard                | Token Standard |
+| [102](fatips/102.md) | FAT Index Standard                     | Meta           |
+| [200](fatips/200.md) | Token Activation & Expiration Standard | Core           |
 
 
 ## Draft
