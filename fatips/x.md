@@ -1,13 +1,13 @@
-| FATIP | Title                   | Status | Category | Author                             | Created   |
-| ----- | ----------------------- | ------ | -------- | ---------------------------------- | --------- |
-| X     | Fungible Token Standard | Final  | Meta     | Devon Katz \<<devonk@dbgrow.com>\> | 7-23-2018 |
+| FATIP | Title                                                        | Status | Category | Author                             | Created   |
+| ----- | ------------------------------------------------------------ | ------ | -------- | ---------------------------------- | --------- |
+| X     | Standard, Contributions, and Process Guidelines for the FAT Ecosystem | Final  | Meta     | Devon Katz \<<devonk@dbgrow.com>\> | 7-23-2018 |
 
 
 [TOC]
 
-# FAT-X
+# FATIP-X
 
-[FAT-X](/) is the initial standard that describes the core framework,
+[FATIP-X](/) is the initial standard that describes the core framework,
 conventions, and guidelines for creating FATIP standards for submission.
 
 
@@ -20,7 +20,7 @@ standards into the FAT standard collection.
 # Why Are They Important?
 
 FATIP provides an open forum for the community to collaborate on and accept new
-standards into the FACT ecosystem. FAT is completely open source, and we rely
+standards into the FAT ecosystem. FAT is completely open source, and we rely
 on our community to keep us pointed in the right direction.
 
 
@@ -138,12 +138,11 @@ repository about this FATIP)
 - Merge the corresponding pull request
 - Send a message back to the FATIP author with the next step.
 
-Many FATIP are written and maintained by developers with write access to the
-FAT codebase. The FATIP editors monitor FATIP changes, and correct any
-structure, grammar, spelling, or markup mistakes we see.
+Many FATIP are written and maintained by developers with write access to the codebases
+of FAT implementations. The FATIP editors monitor FATIP changes, and correct any
+structure, grammar, spelling, or markup mistakes they see.
 
-The editors don't pass judgment on FATIP. We merely do the administrative &
-editorial part.
+
 
 
 # Proposal Structure
