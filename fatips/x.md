@@ -145,7 +145,7 @@ structure, grammar, spelling, or markup mistakes they see.
 
 
 ## Editor Meetings 
-Editors will meet on a semi-weekly basis over voice or text to handle both internal and community orders of business.  
+Editors will hold a meeting over voice or text every two weeks to handle both internal and community orders of business.  
 
 For the purpose of this document, public shall mean available to any members of the FAT discord. Meeting agendas will be assembled publicly, at least 24 hours in advance of the meeting. The meeting will be public, and the time and medium must be publicly announced at least 24 hours in advance of the meeting taking place. Audio or text transcripts of each meeting will be provided for the community, and attendance of editors and community members will be recorded. Each meeting will be 1 hour in length, or until all orders of business have been handled, whichever comes first. 
 
