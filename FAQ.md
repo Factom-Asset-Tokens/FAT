@@ -4,7 +4,7 @@
 
 ### What Is a Data-Only Protocol/Standard?
 
-A data only protocol is, well, a protocol that exists and functions only using
+A data only protocol is a protocol that exists and functions only using
 data! In contrast, Ethereum runs smart contract code in parallel across the
 network to function and reach consensus. Ethereum is a computational blockchain
 and it distributes computation and data across the network.
@@ -23,15 +23,15 @@ blockchains to this day and will for years to come.
 
 Let's compare an ERC-20 token (Ethereum) and a FAT-0 token functionality:
 
-| Criteria                                                  | ERC-20 | FAT-0 |
-| --------------------------------------------------------- | ------ | ----- |
-| Decentralized Blockchain                                  | Y      | Y     |
-| Anyone Can Issue & Trade                                  | Y      | Y     |
-| Decentralized Trade                                       | Y      | Y     |
-| Tokens Tradable in Fractions                              | Y      | Y     |
-| Trustless Issuance/Exchange                               | Y      | N     |
-| Decentralized Issuance                                    | Y      | Y     |
-| Decentralized Trustless Code Execution (see below :wink:) | Y      | N     |
+| Criteria                                 | ERC-20 | FAT-0 |
+| ---------------------------------------- | ------ | ----- |
+| Decentralized Blockchain                 | Y      | Y     |
+| Anyone Can Issue & Trade                 | Y      | Y     |
+| Decentralized Trade                      | Y      | Y     |
+| Tokens Tradable in Fractions             | Y      | Y     |
+| Trustless Issuance/Exchange              | Y      | N     |
+| Decentralized Issuance                   | Y      | Y     |
+| Decentralized & Trustless Code Execution | Y      | N     |
 
 Now, before you go all complaining about the couple N's on the right side,
 let's list some killer pros for FAT:
@@ -39,8 +39,8 @@ let's list some killer pros for FAT:
 | Criteria                                                     | ERC-20 | FAT-0 |
 | ------------------------------------------------------------ | ------ | ----- |
 | Fixed Cost of Operation ($0.001 USD per transaction/KB, Forever) | N      | Y     |
-| Securities/Regulatory concerns of operating token            | Y      | N     |
-| Purchase operating tokens in Fiat, no exchange/regulation    | N      | Y     |
+| Securities/Regulatory concerns of "gas" token (ECs aren't securities) | Y      | N     |
+| Purchase "gas" in Fiat, no exchange/regulation               | N      | Y     |
 | Anchors into the oldest and most secure Blockchain: Bitcoin  | N      | Y     |
 
 

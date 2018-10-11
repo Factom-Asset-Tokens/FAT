@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/8ADPfSc)
 
-[![GitHub](https://img.shields.io/badge/Licence-cc0-brightgreen.svg?longCache=true&style=for-the-badge)](#Copyright & Legal)
+[![GitHub](https://img.shields.io/badge/Licence-cc0-brightgreen.svg?longCache=true&style=for-the-badge)](#Copyright-&-Legal)
 
 FATIP proposals are a open collection of tokenized asset standards built on the
 Factom blockchain, known as Factom Asset Token standards (FAT) standards. This
@@ -51,18 +51,19 @@ defines the FATIP process.
 
 ## Accepted
 
-| FATIP | Name | Category |
-| ----- | ---- | -------- |
-|       |      |          |
-
-
-## Final
-
 | FATIP                | Name                                                         | Category |
 | -------------------- | ------------------------------------------------------------ | -------- |
 | [X](fatips/x.md)     | Standard, Contributions, and Process Guidelines for the FAT Ecosystem | Meta     |
 | [100](fatips/100.md) | FAT Token Chain ID Derivation Standard                       | Core     |
 | [101](fatips/101.md) | FAT Factom Digital Identity Implementation                   | Core     |
+|                      |                                                              |          |
+
+
+## Final
+
+| FATIP | Name | Category |
+| ----- | ---- | -------- |
+|       |      |          |
 
 
 # Contributing
@@ -81,6 +82,8 @@ it reviewed and included for evaluation by the community.
 Our current list of editors and curators:
 
 - **Devon Katz** - <devonk@dbgrow.com>
+- **Adam Levy** - adam@canonical-ledgers.com
+- **Paul Bernier**
 
 
 # Inspiration
@@ -90,6 +93,8 @@ Improvement Protocol](/)
 
 
 # Copyright
+
+Icons by [Icons8](https://icons8.com)
 
 Copyright and related rights waived via
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

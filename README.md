@@ -29,7 +29,7 @@ the price.
 
 ## Low, Fixed Cost
 
-Fixed at \$0.002 USD per transaction and $0.03 USD per new token issuance,
+Fixed at \$0.001 USD per transaction and $0.022 USD per new token issuance,
 **FAT has 99% lower transaction and issuance costs than Ethereum Tokens** with
 [similar features](FAQ#is-fat-comparable-with-ethereum?) and speed.
 <br/>
@@ -171,8 +171,7 @@ Factoids. You can also import a Factoid address if you have one already.
 ## What Do I Need to Send tokens?
 
 You'll need to purchase some Entry Credits so you can enter data into the
-Factom blockchain. The wallet will take care of generating an Entry Credit
-address you can use to receive Entry Credits.
+Factom blockchain.
 
 You can acquire Entry Credits from 3rd party purchasers
 ([Defacto](https://ec.de-facto.pro/) & [Factom
@@ -184,8 +183,8 @@ good deal, since the burn ratio between Factoids to Entry Credits is stabilized
 to give Entry Credits a constant value of $0.001 USD.
 
 Once your Entry Credit address is funded you can send FAT tokens by burning
-entry credits. It costs approximately 2 Entry Credits to send a transaction
-($0.002 USD).
+entry credits. It costs 1 Entry Credits to send a transaction
+($0.001 USD).
 
 Pending transactions should show up in the wallet within 30 seconds after
 successful entry into Factom.
@@ -194,15 +193,11 @@ successful entry into Factom.
 ## What Do I Need to Issue a New FAT Token?
 
 To issue a new FAT token you'll need a [Factom Digital
-Identity](https://ec.de-facto.pro/). If you already have one it can be imported
-into the wallet. Otherwise, you can generate a new identity through the wallet.
+Identity](https://ec.de-facto.pro/).
 
 Registering a new identity costs around 30 Entry Credits ($0.03). You'll need
 to wait up to 10 minutes for the block to complete to view and use your new
 identity.
-
-Once your identity is ready, simply fill out the instructions in the token
-issuance dialog.
 
 
 ## Issuing A FAT Token
@@ -270,7 +265,7 @@ events outside the blockchain (Stripe Payments, Webhooks, User events).
 
 ## Libraries
 
-- #### [fat-js](https://github.com/DBGrow/fat-js) - NodeJS implementations of FAT-X clients & light node
+- #### [fat-js](https://github.com/DBGrow/fat-js) - NodeJS implementations of FAT-X RPC clients
 
 
 

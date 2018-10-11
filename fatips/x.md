@@ -27,7 +27,7 @@ on our community to keep us pointed in the right direction.
 # Contributing
 
 Create your submission in a markdown file following the guidelines defined in
-FAT-X and the [FATIP
+[FATIP-X](x.md) and the [FATIP
 Template](https://docs.google.com/document/d/1YqLhAWEvhWUf4osLYKcN_1sjIYNxAJ4VtHBZlxwYAq8/edit?usp=sharing)
 
 To submit your standard, fork this repo and then submit a pull request to have
@@ -187,10 +187,10 @@ interoperable implementations for any of the current FAT platforms
 ## Implementation
 
 The implementations must be completed before any FATIP is given status "Final",
-but it need not be completed before the FATIP is accepted. While there is merit
+but it need not be completed before the FATIP is given status "Accepted". While there is merit
 to the approach of reaching consensus on the specification and rationale before
 writing code, the principle of "rough consensus and running code" is still
-useful when it comes to resolving many discussions of API details.
+useful when it comes to resolving many discussions of standard details.
 
 
 ## Copyright
