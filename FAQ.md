@@ -13,8 +13,8 @@ Data protocols only share the data at the blockchain layer, and defer the
 computation to the users of the protocol to filter and validate the data
 according to protocols like FAT.
 
-Sharding data is a "solved"  problem in that it has been successfully
-implemented in many production database systems, whereas sharding computation
+Sharding data storage is a problem that it has been successfully solved and
+implemented in many production database systems, but sharding computation
 remains a very difficult challenge that plagues the scalability of many
 blockchains to this day and will for years to come.
 
@@ -39,9 +39,13 @@ let's list some killer pros for FAT:
 | Criteria                                                     | ERC-20 | FAT-0 |
 | ------------------------------------------------------------ | ------ | ----- |
 | Fixed Cost of Operation ($0.001 USD per transaction/KB, Forever) | N      | Y     |
+| Tokens/contracts can be written in any programming language  | N      | Y     |
 | Securities/Regulatory concerns of "gas" token (ECs aren't securities) | Y      | N     |
 | Purchase "gas" in Fiat, no exchange/regulation               | N      | Y     |
-| Anchors into the oldest and most secure Blockchain: Bitcoin  | N      | Y     |
+| Anchors into the oldest and most secure Blockchain: Bitcoin* | N      | Y     |
+
+\* =  It should be noted that while Factom currently anchors into Bitcoin, it is blockchain agnostic and can be made to anchor into virtually any blockchain.
+
 
 
 ### So, Why _can't_ it do everything Ethereum does?
@@ -75,7 +79,7 @@ of action on behalf of a trusted well known issuer is likely admissible in
 court. It is most certainly admissible in the court of public opinion and social enforcement.
 
 
-### So, Why should I use FAT over Ethereum or Colored Coins?
+### So, Why should I use FAT over Ethereum or BTC Colored Coins?
 
 1. They are crazy affordable. ($0.001/KB vs \$2.86/KB & \$3.83/KB). We're
    talking over 1000% less expensive than the competition.
@@ -83,26 +87,23 @@ court. It is most certainly admissible in the court of public opinion and social
    optionally your choice of programming language. Libraries are available to
 facilitate easy contract module development.
 3. They are crazy flexible. Add whatever metadata you want to define custom
-   programmatic behavior as an issuer. Choose any programming language you want
-just be trustworthy and run reliable high availability code.
+   programmatic behavior as an issuer. Contracts and custom token behavior can be written in any programming language.
 
 
 ### How many transactions per second (TPS) can FAT do?
 
 FAT TPS is equal to Factom's TPS. Currently Factom can do around 7 TPS stably,
-which comparable to Ethereum. Factom has been pushed over to 10 TPS before in
-testing. Factom will be capable of sharding to accommodate increasing volume in
-the future as part of the core development grant by Factom Inc.
+which is comparable to Ethereum. Factom has been pushed to 10 TPS  in testing and can be easily sharded to accommodate increasing volume in the future.
 
 
 ### Can I try FAT out without spending real money?
 
-Absolutely. Factom has a thriving and responsive [Testnet](.) that allows you
+Absolutely. Factom has a thriving and responsive [Testnet](http://www.factom-testnet.com/Introduction) that allows you
 to try FAT out at no cost.
 
 
 ### Who Owns FAT?
 
 You do. FAT is completely open source under Creative Commons 0. FAT's
-development and administration is spearheaded by DBGrow Inc., one of the 41
+development and administration is spearheaded by DBGrow Inc., one of the 27
 proud Factom Authority Node Operators

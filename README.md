@@ -193,7 +193,7 @@ successful entry into Factom.
 ## What Do I Need to Issue a New FAT Token?
 
 To issue a new FAT token you'll need a [Factom Digital
-Identity](https://ec.de-facto.pro/).
+Identity](https://github.com/FactomProject/FactomDocs/blob/master/Identity.md).
 
 Registering a new identity costs around 30 Entry Credits ($0.03). You'll need
 to wait up to 10 minutes for the block to complete to view and use your new
@@ -202,7 +202,7 @@ identity.
 
 ## Issuing A FAT Token
 
-Using the wallet you can issue a new tokens for your application or
+Using the wallet you can issue new tokens for your application or
 organization's needs. Parameters are flexible to allow FAT tokens to fit your
 use case. You can define basic properties like Display Name & Symbol, Token
 Type, and rules like Maximum Token Supply.
@@ -212,13 +212,7 @@ receive the newly created tokens. After issuance, you can sell your tokens
 using traditional business processes or integrate them into your application's
 functionality to implement token economies.
 
-***It is important to note that FAT tokens are not smart contracts***. FAT
-tokens cannot automatically, trustlessly execute code or issue tokens like
-Ethereum contracts. However, very similar, if not more flexible functionality
-can be achieved on behalf the issuer using Contract Modules: Reliable pieces of
-enterprise code controlled by FAT-0 events and data. Contract Modules can be
-written in any programming language, unlike Ethereum contracts, and react to
-events outside the blockchain (Stripe Payments, Webhooks, User events).
+In the near future, FAT tokens will support smart contract functionality to allow holding trustless token sales(ICOs), evaluating outside data sources (APIs), and much more rich functionality.
 
 
 # Resources
@@ -230,8 +224,14 @@ events outside the blockchain (Stripe Payments, Webhooks, User events).
 
 ## Software
 
-- #### [FATWallet](https://github.com/DBGrow/FATWallet) - Official FAT wallet
-  currently supporting FAT-0 & FAT-1
+- #### [FAT Daemon](https://github.com/Factom-Asset-Tokens/fatd) (fatd) - Official FAT token daemon and API server
+
+  - A program written in Go that tracks and validates FAT Token chains, and provides up an API for other applications to access FAT's data.
+
+- #### [FATWallet](https://github.com/DBGrow/FATWallet) - Official FAT Wallet
+
+  currently supporting FAT-0
+
 
 
 
@@ -245,7 +245,7 @@ events outside the blockchain (Stripe Payments, Webhooks, User events).
 
 ## Papers
 
-- #### [DBGrow Factom Tokenization Whitepaper](https://docs.google.com/document/d/1YqLhAWEvhWUf4osLYKcN_1sjIYNxAJ4VtHBZlxwYAq8/edit?usp=sharing)
+- #### [Factom Asset Token Whitepaper](https://docs.google.com/document/d/1YqLhAWEvhWUf4osLYKcN_1sjIYNxAJ4VtHBZlxwYAq8/edit?usp=sharing)
 
 
 
