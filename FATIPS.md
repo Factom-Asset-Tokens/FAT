@@ -83,7 +83,8 @@ Our current list of editors and curators:
 
 - **Devon Katz** - <devonk@dbgrow.com>
 - **Adam Levy** - adam@canonical-ledgers.com
-- **Paul Bernier**
+- **Paul Bernier** - bernier.pja@gmail.com
+- **Julian Fletcher-Taylor** - julianft@dbgrow.com
 
 
 # Inspiration
