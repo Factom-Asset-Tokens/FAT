@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-[TOC]
+
 
 ### What Is a Data-Only Protocol/Standard?
 

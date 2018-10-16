@@ -3,7 +3,6 @@
 | X     | Standard, Contributions, and Process Guidelines for the FAT Ecosystem | Final  | Meta     | Devon Katz \<<devonk@dbgrow.com>\> | 7-23-2018 |
 
 
-[TOC]
 
 # FATIP-X
 

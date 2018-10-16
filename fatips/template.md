@@ -3,7 +3,6 @@
 | -     | Standard Name | Status | Category | Author Name \<<author@example.com>\> | 7-23-2018 |
 
 
-[TOC]
 
 # Summary
 

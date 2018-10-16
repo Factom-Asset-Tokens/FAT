@@ -14,7 +14,7 @@ is the central location for collaboration on the technical aspects of the FAT
 project and where standard proposals can be submitted for adoption and
 acceptance into the ecosystem.
 
-[TOC]
+
 
 
 # How Does FATIP Work?
