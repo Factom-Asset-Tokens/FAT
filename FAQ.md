@@ -4,19 +4,19 @@
 
 ### What Is a Data-Only Protocol/Standard?
 
-A data only protocol is a protocol that exists and functions only using
+The FAT protocol is what we are calling a data-only protocol. FAT exists and functions as pure
 data! In contrast, Ethereum runs smart contract code in parallel across the
 network to function and reach consensus. Ethereum is a computational blockchain
 and it distributes computation and data across the network.
 
-Data protocols only share the data at the blockchain layer, and defer the
+Our data-only protocols only share the data at the blockchain layer, and defer the
 computation to the users of the protocol to filter and validate the data
-according to protocols like FAT.
+according to the FAT protocols.
 
-Sharding data storage is a problem that it has been successfully solved and
+Sharding data storage is a problem that has been successfully solved and
 implemented in many production database systems, but sharding computation
 remains a very difficult challenge that plagues the scalability of many
-blockchains to this day and will for years to come.
+blockchains to this day and will for years to come. Building FAT as a data-only protocol allows it to leverage the fact that data storage is easy to shard to create very efficient tokenization.
 
 
 ### Is FAT comparable with Ethereum?
@@ -29,18 +29,17 @@ Let's compare an ERC-20 token (Ethereum) and a FAT-0 token functionality:
 | Anyone Can Issue & Trade                 | Y      | Y     |
 | Decentralized Trade                      | Y      | Y     |
 | Tokens Tradable in Fractions             | Y      | Y     |
-| Trustless Issuance/Exchange              | Y      | N     |
 | Decentralized Issuance                   | Y      | Y     |
 | Decentralized & Trustless Code Execution | Y      | N     |
 
-Now, before you go all complaining about the couple N's on the right side,
+Now, before we start complaining about the N on that last category,
 let's list some killer pros for FAT:
 
 | Criteria                                                     | ERC-20 | FAT-0 |
 | ------------------------------------------------------------ | ------ | ----- |
 | Fixed Cost of Operation ($0.001 USD per transaction/KB, Forever) | N      | Y     |
 | Tokens/contracts can be written in any programming language  | N      | Y     |
-| Securities/Regulatory concerns of "gas" token (ECs aren't securities) | Y      | N     |
+| Functions without potential securities issues of the "gas" tokens | N      | Y     |
 | Purchase "gas" in Fiat, no exchange/regulation               | N      | Y     |
 | Anchors into the oldest and most secure Blockchain: Bitcoin* | N      | Y     |
 
@@ -54,12 +53,12 @@ FAT is a data only protocol, it achieves consensus on the order, timing, and
 content of data using the Factom blockchain.
 
 In Ethereum, a tokens behavior is defined by a smart contract's
-code which is run across the network and held to its well defined rules way by the miners via consensus. No signing with private keys is needed because the behavior can be trusted by everyone in
+code which is run across the network and held to its well defined rules by the miners via consensus. No signing with private keys is needed because the behavior can be trusted by everyone in
 the network. For example, I can send ether to a contract and get back an ICO token,
 guaranteed.
 
 FAT cannot _force_ an issuer to perform an action like the smart contract in
-the example. The issuer needs to use their private keys to sign coinbase
+the example. The issuer (or their software) needs to use their private keys to sign coinbase
 transactions to issue new tokens in response to events. Since private keys
 cannot be published, the issuer must coordinate a token sale with a degree of
 trust from participants:
@@ -81,29 +80,29 @@ court. It is most certainly admissible in the court of public opinion and social
 
 ### So, Why should I use FAT over Ethereum or BTC Colored Coins?
 
-1. They are crazy affordable. ($0.001/KB vs \$2.86/KB & \$3.83/KB). We're
-   talking over 1000% less expensive than the competition.
+1. They are crazy affordable. ($0.001/KB for FAT vs \$2.86/KB & \$3.83/KB for Ethereum and Bitcoin respectively at the moment). We're
+   talking less than 1/1000th the cost of the competition.
 2. They are crazy easy to learn. FAT tokens are written in simple JSON and
-   optionally your choice of programming language. Libraries are available to
+   you can build on FAT in your choice of programming language. Libraries are available to
 facilitate easy contract module development.
 3. They are crazy flexible. Add whatever metadata you want to define custom
-   programmatic behavior as an issuer. Contracts and custom token behavior can be written in any programming language.
+   programmatic behavior as an issuer. Contracts and custom token behavior can be written in any programming language. FAT standards can be layered and extended to achieve unique tokenization and smart contract functionality.
 
 
 ### How many transactions per second (TPS) can FAT do?
 
-FAT TPS is equal to Factom's TPS. Currently Factom can do around 7 TPS stably,
-which is comparable to Ethereum. Factom has been pushed to 10 TPS  in testing and can be easily sharded to accommodate increasing volume in the future.
+FAT TPS is equal to Factom's TPS. Currently Factom can do around 10 TPS stably,
+which is comparable to Ethereum. Factom can be easily sharded to accommodate increasing volume in the future.
 
 
 ### Can I try FAT out without spending real money?
 
 Absolutely. Factom has a thriving and responsive [Testnet](http://www.factom-testnet.com/Introduction) that allows you
-to try FAT out at no cost.
+to try FAT out at no cost. Additionally, the FAT wallet currently comes hardcoded with the private key to a pre-loaded Entry Credit address to fund issuance and transactions of FAT on the Factom mainnet.
 
 
 ### Who Owns FAT?
 
 You do. FAT is completely open source under Creative Commons 0. FAT's
 development and administration is spearheaded by DBGrow Inc., one of the 27
-proud Factom Authority Node Operators
+proud Factom Authority Members.
