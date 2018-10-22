@@ -106,3 +106,14 @@ to try FAT out at no cost. Additionally, the FAT wallet currently comes hardcode
 You do. FAT is completely open source under Creative Commons 0. FAT's
 development and administration is spearheaded by DBGrow Inc., one of the 27
 proud Factom Authority Members.
+
+
+
+### Meaning of the FAT Protocol
+
+The FAT protocol stands for Factom Asset Token protocol, and is also a play on the concept of blockchains being “fat” protocols compared to other networks which act as “thin” protocols. The idea is that while the internet generated immense value, it was the application layer on top of the internet that captured that value rather than the network layer itself. Blockchain allows the network layer a better mechanism to capture value, and Factom’s two token system is the strongest mechanism in the blockchain space for capturing that value. We thought it fitting to name our tokenization protocol that exists as pure data within the Factom blockchain the FAT protocol, as value of activity in the Factom Asset Token protocol is captured directly as entry credit burn within the Factom blockchain, the best designed fat protocol in existence .
+
+Read more on the concept of FAT protocols: <http://www.usv.com/blog/fat-protocols>   
+
+
+
