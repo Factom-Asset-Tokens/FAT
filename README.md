@@ -29,7 +29,7 @@ the price.
 
 ## Low, Fixed Cost
 
-Fixed at \$0.001 USD per transaction and $0.022 USD per new token issuance,
+Fixed at \$0.001 USD per transaction and $0.012 USD per new token issuance,
 **FAT has 99% lower transaction and issuance costs than Ethereum Tokens** with
 [similar features](FAQ#is-fat-comparable-with-ethereum?) and speed.
 <br/>
