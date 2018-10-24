@@ -23,25 +23,19 @@ blockchains to this day and will for years to come. Building FAT as a data-only 
 
 Let's compare an ERC-20 token (Ethereum) and a FAT-0 token functionality:
 
-| Criteria                                 | ERC-20 | FAT-0 |
-| ---------------------------------------- | ------ | ----- |
-| Decentralized Blockchain                 | Y      | Y     |
-| Anyone Can Issue & Trade                 | Y      | Y     |
-| Decentralized Trade                      | Y      | Y     |
-| Tokens Tradable in Fractions             | Y      | Y     |
-| Decentralized Issuance                   | Y      | Y     |
-| Decentralized & Trustless Code Execution | Y      | N     |
-
-Now, before we start complaining about the N on that last category,
-let's list some killer pros for FAT:
-
-| Criteria                                                     | ERC-20 | FAT-0 |
-| ------------------------------------------------------------ | ------ | ----- |
-| Fixed Cost of Operation ($0.001 USD per transaction/KB, Forever) | N      | Y     |
-| Tokens/contracts can be written in any programming language  | N      | Y     |
-| Functions without potential securities issues of the "gas" tokens | N      | Y     |
-| Purchase "gas" in Fiat, no exchange/regulation               | N      | Y     |
-| Anchors into the oldest and most secure Blockchain: Bitcoin* | N      | Y     |
+| Criteria                                                     | FAT-0 | ERC-20 |
+| ------------------------------------------------------------ | ----- | ------ |
+| Decentralized Blockchain                                     | Y     | Y      |
+| Decentralized & Trustless Trade                              | Y     | Y      |
+| Decentralized & Trustless Issuance                           | Y     | Y      |
+| Decentralized & Trustless Exchange                           | Y     | Y      |
+| Decentralized & Trustless Code Execution                     | N     | Y      |
+| Tokens Tradable in Fractions                                 | Y     | Y      |
+| Fixed Cost of Operation ($0.001 USD per transaction/KB, Forever) | Y     | N      |
+| Tokens/contracts can be written in any programming language  | Y     | N      |
+| Functions without potential securities issues of the "gas" tokens | Y     | N      |
+| Purchase "gas" in Fiat, no exchange/regulation               | Y     | N      |
+| Anchors into the oldest and most secure Blockchain: Bitcoin* | Y     | N      |
 
 \* =  It should be noted that while Factom currently anchors into Bitcoin, it is blockchain agnostic and can be made to anchor into virtually any blockchain.
 
@@ -53,29 +47,9 @@ FAT is a data only protocol, it achieves consensus on the order, timing, and
 content of data using the Factom blockchain.
 
 In Ethereum, a tokens behavior is defined by a smart contract's
-code which is run across the network and held to its well defined rules by the miners via consensus. No signing with private keys is needed because the behavior can be trusted by everyone in
-the network. For example, I can send ether to a contract and get back an ICO token,
-guaranteed.
+code which is run across the network, and held to its well defined rules by the miners via consensus. No signing with private keys on behalf of the issuer of the contract is needed because the contracts behavior can be trusted by everyone in the network. For example, I can send ether to a contract and get back an ICO token, guaranteed.
 
-FAT cannot _force_ an issuer to perform an action like the smart contract in
-the example. The issuer (or their software) needs to use their private keys to sign coinbase
-transactions to issue new tokens in response to events. Since private keys
-cannot be published, the issuer must coordinate a token sale with a degree of
-trust from participants:
-
-- Set Exchange Rate **=>** Accept Payments/Verify **=>** Send Tokens Back
-  - Manually
-  - Automatically by running a piece of software
-
-This means to have smart contract like functionality without a computational
-consensus layer on FAT, trusted issuing parties must run, frequently or 24/7,
-pieces of software to honor client requests for exchanging tokens.  This is
-perhaps the biggest caveat of FAT.
-
-At the same time this meshes with how our legal and social systems regulate
-behavior in the real world. The publicly viewable, immutable evidence of lack
-of action on behalf of a trusted well known issuer is likely admissible in
-court. It is most certainly admissible in the court of public opinion and social enforcement.
+In FAT there are rare scenarios where it's difficult to get around this issue with application design, and issuers must listen for events so they can sign and submit data.
 
 
 ### So, Why should I use FAT over Ethereum or BTC Colored Coins?
