@@ -7,7 +7,7 @@
 # FATIP-X
 
 [FATIP-X](/) is the initial standard that describes the core framework,
-conventions, and guidelines for creating FATIP standards for submission.
+conventions, contribution guidelines, and ecosystem of FATIP standards.
 
 
 # What Is An FATIP?
