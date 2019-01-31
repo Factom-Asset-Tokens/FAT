@@ -228,12 +228,7 @@ In the near future, FAT tokens will support smart contract functionality to allo
 
   - A program written in Go that tracks and validates FAT Token chains, and provides up an API for other applications to access FAT's data.
 
-- #### [FATWallet](https://github.com/DBGrow/FATWallet) - Official FAT Wallet
-
-  currently supporting FAT-0
-
-
-
+- #### [FAT Wallet](https://github.com/Factom-Asset-Tokens/wallet) - Official FAT Wallet
 
 ## Documentation
 
@@ -265,7 +260,7 @@ In the near future, FAT tokens will support smart contract functionality to allo
 
 ## Libraries
 
-- #### [fat-js](https://github.com/DBGrow/fat-js) - NodeJS implementations of FAT-X RPC clients
+- #### [fat-js](https://github.com/Factom-Asset-Tokens/fat-js) - NodeJS implementations of FAT-X RPC clients
 
 
 
