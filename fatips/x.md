@@ -19,8 +19,8 @@ standards into the FAT standard collection.
 # Why Are They Important?
 
 FATIP provides an open forum for the community to collaborate on and accept new
-standards into the FAT ecosystem. FAT is completely open source, and we rely
-on our community to keep us pointed in the right direction.
+standards into the FAT ecosystem. FAT is completely open source, and we rely on
+our community to keep us pointed in the right direction.
 
 
 # Contributing
@@ -137,9 +137,9 @@ repository about this FATIP)
 - Merge the corresponding pull request
 - Send a message back to the FATIP author with the next step.
 
-Many FATIP are written and maintained by developers with write access to the codebases
-of FAT implementations. The FATIP editors monitor FATIP changes, and correct any
-structure, grammar, spelling, or markup mistakes they see.
+Many FATIP are written and maintained by developers with write access to the
+codebases of FAT implementations. The FATIP editors monitor FATIP changes, and
+correct any structure, grammar, spelling, or markup mistakes they see.
 
 
 
@@ -186,10 +186,11 @@ interoperable implementations for any of the current FAT platforms
 ## Implementation
 
 The implementations must be completed before any FATIP is given status "Final",
-but it need not be completed before the FATIP is given status "Accepted". While there is merit
-to the approach of reaching consensus on the specification and rationale before
-writing code, the principle of "rough consensus and running code" is still
-useful when it comes to resolving many discussions of standard details.
+but it need not be completed before the FATIP is given status "Accepted". While
+there is merit to the approach of reaching consensus on the specification and
+rationale before writing code, the principle of "rough consensus and running
+code" is still useful when it comes to resolving many discussions of standard
+details.
 
 
 ## Copyright
