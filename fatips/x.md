@@ -113,7 +113,7 @@ prefix. Errata may be formally submitted following this stage if required.
 
 # Proposal Workflow
 
-![](/home/devon/Desktop/Screenshot%20from%202018-08-15%2000-20-11.png)
+![](../assets/proposalworkflow.png)
 
 
 # FATIP Editors
