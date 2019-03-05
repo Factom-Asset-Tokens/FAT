@@ -38,7 +38,6 @@ defines the FATIP process.
 
 | FATIP            | Name                        | Category       |
 | ---------------- | --------------------------- | -------------- |
-| [0](fatips/0.md) | Fungible Token Standard     | Token Standard |
 | [1](fatips/1.md) | Non-Fungible Token Standard | Token Standard |
 
 
@@ -51,12 +50,13 @@ defines the FATIP process.
 
 ## Accepted
 
-| FATIP                | Name                                                         | Category |
-| -------------------- | ------------------------------------------------------------ | -------- |
-| [X](fatips/x.md)     | Standard, Contributions, and Process Guidelines for the FAT Ecosystem | Meta     |
-| [100](fatips/100.md) | FAT Token Chain ID Derivation Standard                       | Core     |
-| [101](fatips/101.md) | FAT Factom Digital Identity Implementation                   | Core     |
-|                      |                                                              |          |
+| FATIP                | Name                                                         | Category       |
+| -------------------- | ------------------------------------------------------------ | -------------- |
+| [X](fatips/x.md)     | Standard, Contributions, and Process Guidelines for the FAT Ecosystem | Meta           |
+| [0](fatips/0.md)     | Fungible Token Standard                                      | Token Standard |
+| [100](fatips/100.md) | FAT Token Chain ID Derivation Standard                       | Core           |
+| [101](fatips/101.md) | FAT Factom Digital Identity Implementation                   | Core           |
+| [103](fatips/103.md) | FAT Entry Signing Standard                                   | Core           |
 
 
 ## Final
