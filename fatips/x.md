@@ -205,8 +205,8 @@ Copyright and related rights waived via
 
 # Inheritance
 
-FAT standards can extend and inherit functionality and rules from others. The
-`extends` \<FATIP #> Keyword and Tag denotes feature inheritance on a feature
+FAT standards can inherit functionality and rules from others. The
+`inherits` \<FATIP #> Keyword and Tag denotes feature inheritance on a feature
 by feature basis. The author of the FATIP must explain how and what is being
 inherited, and if there are any changes being made.
 
