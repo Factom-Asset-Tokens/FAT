@@ -138,7 +138,7 @@ A fungible, mineable asset token standard.
 # Getting Started
 
 The easiest way to get started exploring, issuing, accepting, and trading FAT
-tokens is by using the latest official [FAT Wallet Release](/). The wallet is
+tokens is by using the latest official [FAT Wallet Release](https://github.com/Factom-Asset-Tokens/wallet/releases). The wallet is
 available as an executable for Windows, Mac, or Linux.
 
 You can also use a [Library or API](#libraries) to programmatically issue,
