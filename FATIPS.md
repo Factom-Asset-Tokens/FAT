@@ -2,7 +2,7 @@
 
 # Factom Asset Token Improvement Proposals :gear:
 
-[![](https://img.shields.io/badge/FAT%20Standards-7-brightgreen.svg?style=for-the-badge)](FATIPS.md)
+[![](https://img.shields.io/badge/FAT%20Standards-5-brightgreen.svg?style=for-the-badge)](FATIPS.md)
 
 [![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/8ADPfSc)
 
@@ -28,10 +28,9 @@ defines the FATIP process.
 
 ## Work In Progress
 
-| FATIP                | Name                    | Category       |
-| -------------------- | ----------------------- | -------------- |
-| [13](fatips/13.md)   | Mineable Token Standard | Token Standard |
-| [102](fatips/102.md) | FAT Index Standard      | Meta           |
+| FATIP | Name | Category |
+| ----- | ---- | -------- |
+|       |      |          |
 
 
 ## Draft

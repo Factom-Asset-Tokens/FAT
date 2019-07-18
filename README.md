@@ -2,7 +2,7 @@
 
 # Factom Asset Tokens
 
-[![](https://img.shields.io/badge/Token%20Standards-3-brightgreen.svg?style=for-the-badge)](FATIPS.md)
+[![](https://img.shields.io/badge/Token%20Standards-2-brightgreen.svg?style=for-the-badge)](FATIPS.md)
 [![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/8ADPfSc)
 [![GitHub](https://img.shields.io/badge/Licence-cc0-brightgreen.svg?longCache=true&style=for-the-badge)](#copyright-&-legal)
 
@@ -124,15 +124,6 @@ A non-fungible asset token standard.
   - Tradable in whole number token increments
   - Every token is unique, and can have unique properties
   - Tokens have a history of the addresses they've resided at
-
-
-### **[FAT-13](fatips/13.md) (Work In Progress)**
-
-A fungible, mineable asset token standard.
-
-- Most alike Bitcoin:
-  - Parties do proof of work to mine tokens
-  - Tradable in fractions of a token
 
 
 # Getting Started
