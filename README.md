@@ -125,6 +125,12 @@ A non-fungible asset token standard.
   - Every token is unique, and can have unique properties
   - Tokens have a history of the addresses they've resided at
 
+### [**FAT-2**](fatips/2.md)
+
+Pegnet: Pegged Asset Token Standard
+
+
+
 
 # Getting Started
 
