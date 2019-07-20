@@ -1,0 +1,10 @@
+# Ignore common artifacts of editing
+#
+# Binaries for programs and plugins, merges, tools
+*.idea
+*.dat
+*.orig
+*.txt
+
+# Goland
+.idea/*
