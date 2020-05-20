@@ -2,7 +2,7 @@
 
 # Factom Asset Token Improvement Proposals :gear:
 
-[![](https://img.shields.io/badge/FAT%20Standards-7-brightgreen.svg?style=for-the-badge)](FATIPS.md)
+[![](https://img.shields.io/badge/FAT%20Standards-5-brightgreen.svg?style=for-the-badge)](FATIPS.md)
 
 [![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/8ADPfSc)
 
@@ -28,17 +28,15 @@ defines the FATIP process.
 
 ## Work In Progress
 
-| FATIP                | Name                    | Category       |
-| -------------------- | ----------------------- | -------------- |
-| [13](fatips/13.md)   | Mineable Token Standard | Token Standard |
-| [102](fatips/102.md) | FAT Index Standard      | Meta           |
+| FATIP | Name | Category |
+| ----- | ---- | -------- |
+|       |      |          |
 
 
 ## Draft
 
 | FATIP            | Name                        | Category       |
 | ---------------- | --------------------------- | -------------- |
-| [0](fatips/0.md) | Fungible Token Standard     | Token Standard |
 | [1](fatips/1.md) | Non-Fungible Token Standard | Token Standard |
 
 
@@ -51,12 +49,13 @@ defines the FATIP process.
 
 ## Accepted
 
-| FATIP                | Name                                                         | Category |
-| -------------------- | ------------------------------------------------------------ | -------- |
-| [X](fatips/x.md)     | Standard, Contributions, and Process Guidelines for the FAT Ecosystem | Meta     |
-| [100](fatips/100.md) | FAT Token Chain ID Derivation Standard                       | Core     |
-| [101](fatips/101.md) | FAT Factom Digital Identity Implementation                   | Core     |
-|                      |                                                              |          |
+| FATIP                | Name                                                         | Category       |
+| -------------------- | ------------------------------------------------------------ | -------------- |
+| [X](fatips/x.md)     | Standard, Contributions, and Process Guidelines for the FAT Ecosystem | Meta           |
+| [0](fatips/0.md)     | Fungible Token Standard                                      | Token Standard |
+| [100](fatips/100.md) | FAT Token Chain ID Derivation Standard                       | Core           |
+| [101](fatips/101.md) | FAT Factom Digital Identity Implementation                   | Core           |
+| [103](fatips/103.md) | FAT Entry Signing Standard                                   | Core           |
 
 
 ## Final

@@ -2,7 +2,7 @@
 
 # Factom Asset Tokens
 
-[![](https://img.shields.io/badge/Token%20Standards-3-brightgreen.svg?style=for-the-badge)](FATIPS.md)
+[![](https://img.shields.io/badge/Token%20Standards-2-brightgreen.svg?style=for-the-badge)](FATIPS.md)
 [![Discord](https://img.shields.io/discord/479606362507313152.svg?style=for-the-badge)](https://discord.gg/8ADPfSc)
 [![GitHub](https://img.shields.io/badge/Licence-cc0-brightgreen.svg?longCache=true&style=for-the-badge)](#copyright-&-legal)
 
@@ -31,7 +31,7 @@ the price.
 
 Fixed at \$0.001 USD per transaction and $0.012 USD per new token issuance,
 **FAT has 99% lower transaction and issuance costs than Ethereum Tokens** with
-[similar features](FAQ#is-fat-comparable-with-ethereum?) and speed.
+[similar features](FAQ.md#is-fat-comparable-with-ethereum) and speed.
 <br/>
 <br/>
 
@@ -126,19 +126,10 @@ A non-fungible asset token standard.
   - Tokens have a history of the addresses they've resided at
 
 
-### **[FAT-13](fatips/13.md) (Work In Progress)**
-
-A fungible, mineable asset token standard.
-
-- Most alike Bitcoin:
-  - Parties do proof of work to mine tokens
-  - Tradable in fractions of a token
-
-
 # Getting Started
 
 The easiest way to get started exploring, issuing, accepting, and trading FAT
-tokens is by using the latest official [FAT Wallet Release](/). The wallet is
+tokens is by using the latest official [FAT Wallet Release](https://github.com/Factom-Asset-Tokens/wallet/releases). The wallet is
 available as an executable for Windows, Mac, or Linux.
 
 You can also use a [Library or API](#libraries) to programmatically issue,
@@ -228,12 +219,7 @@ In the near future, FAT tokens will support smart contract functionality to allo
 
   - A program written in Go that tracks and validates FAT Token chains, and provides up an API for other applications to access FAT's data.
 
-- #### [FATWallet](https://github.com/DBGrow/FATWallet) - Official FAT Wallet
-
-  currently supporting FAT-0
-
-
-
+- #### [FAT Wallet](https://github.com/Factom-Asset-Tokens/wallet) - Official FAT Wallet
 
 ## Documentation
 
@@ -265,7 +251,7 @@ In the near future, FAT tokens will support smart contract functionality to allo
 
 ## Libraries
 
-- #### [fat-js](https://github.com/DBGrow/fat-js) - NodeJS implementations of FAT-X RPC clients
+- #### [fat-js](https://github.com/Factom-Asset-Tokens/fat-js) - NodeJS implementations of FAT-X RPC clients
 
 
 

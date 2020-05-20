@@ -19,8 +19,8 @@ standards into the FAT standard collection.
 # Why Are They Important?
 
 FATIP provides an open forum for the community to collaborate on and accept new
-standards into the FAT ecosystem. FAT is completely open source, and we rely
-on our community to keep us pointed in the right direction.
+standards into the FAT ecosystem. FAT is completely open source, and we rely on
+our community to keep us pointed in the right direction.
 
 
 # Contributing
@@ -113,7 +113,7 @@ prefix. Errata may be formally submitted following this stage if required.
 
 # Proposal Workflow
 
-![](/home/devon/Desktop/Screenshot%20from%202018-08-15%2000-20-11.png)
+![](../assets/proposalworkflow.png)
 
 
 # FATIP Editors
@@ -137,9 +137,18 @@ repository about this FATIP)
 - Merge the corresponding pull request
 - Send a message back to the FATIP author with the next step.
 
-Many FATIP are written and maintained by developers with write access to the codebases
-of FAT implementations. The FATIP editors monitor FATIP changes, and correct any
-structure, grammar, spelling, or markup mistakes they see.
+Many FATIP are written and maintained by developers with write access to the
+codebases of FAT implementations. The FATIP editors monitor FATIP changes, and
+correct any structure, grammar, spelling, or markup mistakes they see.
+
+
+
+## Editor Meetings 
+Editors will hold a meeting over voice or text every two weeks to handle both internal and community orders of business.  
+
+For the purpose of this document, public shall mean available to any members of the FAT discord. Meeting agendas will be assembled publicly, at least 24 hours in advance of the meeting. The meeting will be public, and the time and medium must be publicly announced at least 48 hours in advance of the meeting taking place. Audio or text transcripts of each meeting will be provided for the community, and attendance of editors and community members will be recorded. Each meeting will be 1 hour in length, or until all orders of business have been handled, whichever comes first. 
+
+After the aforementioned period expires, 20 minutes are reserved for editors to handle public Q&A if it exists. Editors may remain longer if they wish, however it is not obligatory, and transcripts may or may not be taken.
 
 
 
@@ -186,10 +195,11 @@ interoperable implementations for any of the current FAT platforms
 ## Implementation
 
 The implementations must be completed before any FATIP is given status "Final",
-but it need not be completed before the FATIP is given status "Accepted". While there is merit
-to the approach of reaching consensus on the specification and rationale before
-writing code, the principle of "rough consensus and running code" is still
-useful when it comes to resolving many discussions of standard details.
+but it need not be completed before the FATIP is given status "Accepted". While
+there is merit to the approach of reaching consensus on the specification and
+rationale before writing code, the principle of "rough consensus and running
+code" is still useful when it comes to resolving many discussions of standard
+details.
 
 
 ## Copyright
@@ -204,8 +214,8 @@ Copyright and related rights waived via
 
 # Inheritance
 
-FAT standards can extend and inherit functionality and rules from others. The
-`extends` \<FATIP #> Keyword and Tag denotes feature inheritance on a feature
+FAT standards can inherit functionality and rules from others. The
+`inherits` \<FATIP #> Keyword and Tag denotes feature inheritance on a feature
 by feature basis. The author of the FATIP must explain how and what is being
 inherited, and if there are any changes being made.
 
